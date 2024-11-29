@@ -41,7 +41,7 @@ For the loading of object identifier names directly from the web [curl][7] is us
 The preferred way to install this library is to rely on [Composer][2]:
 
 ```bash
-$ composer require fgrosse/phpasn1
+$ composer require uma/phpasn1
 ```
 
 ## Usage

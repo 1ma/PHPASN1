@@ -1,5 +1,5 @@
 {
-    "name": "fgrosse/phpasn1",
+    "name": "uma/phpasn1",
     "description": "A PHP Framework that allows you to encode and decode arbitrary ASN.1 structures using the ITU-T X.690 Encoding Rules.",
     "type": "library",
     "homepage": "https://github.com/FGrosse/PHPASN1",
@@ -19,11 +19,11 @@
     "keywords": [ "x690", "x.690", "x.509", "x509", "asn1", "asn.1", "ber", "der", "binary", "encoding", "decoding" ],
 
     "require": {
-        "php": "^7.1 || ^8.0"
+        "php": "^8.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0",
-        "php-coveralls/php-coveralls": "~2.0"
+        "phpunit/phpunit": "^9.6",
+        "php-coveralls/php-coveralls": "^2.0"
     },
     "suggest": {
         "ext-gmp": "GMP is the preferred extension for big integer calculations",
