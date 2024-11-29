@@ -2,6 +2,7 @@
 <phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.6/phpunit.xsd"
          bootstrap="vendor/autoload.php"
+         cacheResult="false"
          colors="true"
 >
     <testsuites>
@@ -14,8 +15,5 @@
         <include>
             <directory suffix=".php">lib</directory>
         </include>
-        <report>
-            <html outputDirectory="./tests/output/Coverage/"/>
-        </report>
     </coverage>
 </phpunit>

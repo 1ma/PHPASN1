@@ -1,3 +1,6 @@
+#### v2.5.1 (2024-12)
+* Stop using gmp_pow()
+
 #### v2.5.0 (2022-12)
 * Support PHP 8.2 [#99](https://github.com/fgrosse/PHPASN1/pull/99)
 * PHP 8 compatibility fix for DateTime::getLastErrors [#98](https://github.com/fgrosse/PHPASN1/pull/98)
