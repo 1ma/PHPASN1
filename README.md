@@ -1,9 +1,15 @@
 PHPASN1
 =======
 
+[![PHPUnit](https://github.com/1ma/PHPASN1/actions/workflows/phpunit.yml/badge.svg)](https://github.com/1ma/PHPASN1/actions/workflows/phpunit.yml)
 [![Latest Stable Version](https://poser.pugx.org/fgrosse/phpasn1/v/stable.png)](https://packagist.org/packages/fgrosse/phpasn1)
 [![Total Downloads](https://poser.pugx.org/fgrosse/phpasn1/downloads.png)](https://packagist.org/packages/fgrosse/phpasn1)
 [![License](https://poser.pugx.org/fgrosse/phpasn1/license.png)](https://packagist.org/packages/fgrosse/phpasn1)
+
+---
+
+This is a fork to support [uma/phpecc](https://github.com/1ma/phpecc/) and in turn [nostrver-se/nostr-php](https://github.com/nostrver-se/nostr-php).
+Should be considered abandoned, exactly like upstream.
 
 ---
 
