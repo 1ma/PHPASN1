@@ -2,6 +2,7 @@
     "name": "uma/phpasn1",
     "description": "A PHP Framework that allows you to encode and decode arbitrary ASN.1 structures using the ITU-T X.690 Encoding Rules.",
     "type": "library",
+    "abandoned": "genkgo/php-asn1",
     "homepage": "https://github.com/FGrosse/PHPASN1",
     "license": "MIT",
     "authors": [

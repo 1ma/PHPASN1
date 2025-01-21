@@ -9,7 +9,8 @@ PHPASN1
 ---
 
 This is a fork to support [uma/phpecc](https://github.com/1ma/phpecc/) and in turn [nostrver-se/nostr-php](https://github.com/nostrver-se/nostr-php).
-Should be considered abandoned, exactly like upstream.
+
+It is abandoned, use [`genkgo/php-asn1`](https://github.com/genkgo/php-asn1) instead.
 
 ---
 
